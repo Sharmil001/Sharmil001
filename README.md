@@ -2,7 +2,7 @@
 <h3 align="center">A boy trying to Figure-Out stuff!!</h3>
 
 
-<img align="right" height="300" width="350" alt="GIF" src="https://media.giphy.com/media/RIUgvgjw3D5Z1ZJSvv/giphy.gif"/>
+<img align="right" height="300" width="350" alt="GIF" src="https://github.com/Sharmil001/Sharmil001/blob/main/i-play-with-code.gif"/>
 
 
 - 🔭 I’m currently working on **THIREYE final year project;**
