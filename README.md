@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on **THIREYE final year project;**
 
-- 🌱 I’m currently learning **django;**
+- 🌱 I’m currently learning and exploring  **Machine Learning;**
 
 - 💬 Ask me about anything, **I am happy to help;**
 
