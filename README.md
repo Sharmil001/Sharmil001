@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sharmil Adroja</h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="30"/>Hi, I'm Sharmil Adroja</h1>
 <h3 align="center">A boy trying to Figure-Out stuff!!</h3>
 
 <a href="https://www.linkedin.com/in/sharmil-ml/">
