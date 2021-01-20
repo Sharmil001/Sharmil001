@@ -2,9 +2,6 @@
 <h3 align="center">A boy trying to Figure-Out stuff!!</h3>
 
 
-<img align="right" height="300" width="350" alt="GIF" src="https://github.com/Sharmil001/Sharmil001/blob/main/i-play-with-code.gif"/>
-
-
 - 🔭 I’m currently working on **THIREYE final year project;**
 
 - 🌱 I’m currently learning and exploring  **Machine Learning;**
@@ -30,6 +27,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
 
+<img align="right" height="300" width="350" alt="GIF" src="https://github.com/Sharmil001/Sharmil001/blob/main/i-play-with-code.gif"/>
+
 **Connect with me:**
 
 <a href="https://www.linkedin.com/in/sharmil-ml/">
@@ -44,3 +43,4 @@
 
 <br />
 <br />
+
