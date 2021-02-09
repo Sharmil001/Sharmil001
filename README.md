@@ -1,6 +1,8 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="30"/> Hi, I'm Sharmil Adroja</h1>
+<br>
 <h3 align="center">A boy trying to Figure-Out stuff!!</h3>
-
+<br>
+<br>
 Passionate Python Backend Developer from Nashik | India🇮🇳, most of my time I spend solving real-world problems and learning new backend technologies.
 
 - 🌱 I’m currently learning and exploring  **Machine Learning;**
