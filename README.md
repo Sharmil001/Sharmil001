@@ -1,8 +1,7 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="30"/> Hi, I'm Sharmil Adroja</h1>
 <h3 align="center">A boy trying to Figure-Out stuff!!</h3>
 
-
-- 🔭 I’m currently working on **THIREYE final year project;**
+Passionate Python Backend Developer from Nashik | India🇮🇳, most of my time I spend solving real-world problems and learning new backend technologies.
 
 - 🌱 I’m currently learning and exploring  **Machine Learning;**
 
@@ -11,6 +10,7 @@
 - ☕️ Coffee keeps me functioning;
 
 - 🤖 Mr. Robot: **Everyone has their own IF/THEN conditional programming, a situation where if certain conditions are met, then a logic bomb detonates. Everything blows up in your face;**
+- **``Open for job opportunities``**
 
 - 📫 How to reach me **sharmiladroja17@gmail.com**
 
@@ -19,7 +19,7 @@
 **Languages and Tools:**
 
 <code><img width="10%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img width="13%" src="./images/djangoproject-ar21.svg"></code>
+<code><img width="10%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img width="10%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img width="10%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img width="10%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
