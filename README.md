@@ -3,9 +3,9 @@
 <br>
 Passionate Python Backend Developer from Nashik | India🇮🇳, most of my time I spend solving real-world problems and learning new backend technologies.
 
-- 🌱 I’m currently learning and exploring  **Machine Learning;**
+- 🌱 I’m currently learning and exploring  **New Webdevelopment Technologies;**
 
-- 💬 Ask me about anything, **I am happy to help;**
+- 💬 Ask me about django python, **I am happy to help;**
 
 - ☕️ Coffee keeps me functioning;
 
