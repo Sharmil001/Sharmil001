@@ -3,7 +3,7 @@
 <br>
 Passionate Fullstack Developer from Nashik | India🇮🇳, most of my time I spend solving real-world problems and learning new web technologies.
 
-- 🌱 I’m currently learning and exploring  **New Webdevelopment Technologies;**
+- 🌱 I’m currently learning and exploring  **New Web Development Technologies;**
 
 - 💬 Ask me about angular, django, nestjs, **I am happy to help;**
 
