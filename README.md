@@ -5,7 +5,7 @@ Passionate Fullstack Developer from Nashik | India🇮🇳, most of my time I sp
 
 - 🌱 I’m software engineer at **Baygrape Technology Solutions;**
 
-- 💬 Ask me about javascript, React, Angular, NodeJS, ExpressJS **I am happy to help;**
+- 💬 Ask me about javascript, Typescript, ReactJS, NextJS, Angular, NodeJS, ExpressJS **I am happy to help;**
 
 - ☕️ Coffee keeps me functioning;
 
