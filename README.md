@@ -13,7 +13,6 @@ Passionate Fullstack Developer from Nashik | India🇮🇳, most of my time I sp
 - **``Open for job opportunities``**
 
 - 📫 How to reach me **sharmiladroja17@gmail.com**
-- 📃 Resume: https://bit.ly/sharmil-adroja-resume 
 
 
 <!-- <h3 align="left">🧰 Languages & Tools:</h3>
