@@ -1,5 +1,5 @@
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="30"/> Hi, I'm Sharmil Adroja</h1>
-<h3>A boy trying to Figure-Out stuff!!<img src="https://pic.chinesefontdesign.com/uploads/2016/11/chinesefontdesign.com_2016-11-11_19-15-09.gif" width="50"></h3>
+<h1 align="center">Hi, I'm Sharmil Adroja <img src="https://pic.chinesefontdesign.com/uploads/2016/11/chinesefontdesign.com_2016-11-11_19-15-09.gif" width="50"></h1>
+<h3>A boy trying to Figure-Out stuff!!</h3>
 <br>
 Passionate Fullstack Developer from India🇮🇳, most of my time I spend solving real-world problems and learning new web technologies.
 
