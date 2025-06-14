@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sharmil Adroja <img src="https://pic.chinesefontdesign.com/uploads/2016/11/chinesefontdesign.com_2016-11-11_19-15-09.gif" width="50"></h1>
+<h1 align="center" style="border: none;">Hi, I'm Sharmil Adroja <img src="https://pic.chinesefontdesign.com/uploads/2016/11/chinesefontdesign.com_2016-11-11_19-15-09.gif" width="50"></h1>
 <h2 align="center">Fullstack Developer | Web Performance Enthusiast | Always Hacking on the Frontline</h2>
 <h3>A boy trying to Figure-Out stuff!!</h3>
 <br>
