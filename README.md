@@ -22,9 +22,9 @@ Full-stack engineer from India 🇮🇳 who takes products from an empty repo to
 
 ### 🧩 Products I own
 
-- <img src="https://godocman.com/logo192.png" width="16" alt=""> **[Go Docman](https://godocman.com)**: operating system for interior design & construction firms
-- <img src="https://ruppi.app/apple-touch-icon.png" width="16" alt=""> **[Ruppi](https://ruppi.app)**: one-tap expense tracking for iPhone
 - <img src="https://www.kwikpic.in/logo192.jpg" width="16" alt=""> **[Kwikpic](https://www.kwikpic.in/landing/home)**: AI-powered smart photo sharing app
+- <img src="https://ruppi.app/apple-touch-icon.png" width="16" alt=""> **[Ruppi](https://ruppi.app)**: one-tap expense tracking for iPhone
+- <img src="https://godocman.com/logo192.png" width="16" alt=""> **[Go Docman](https://godocman.com)**: operating system for interior design & construction firms
 - <img src="https://genz-lang-web.vercel.app/apple-touch-icon.png" width="16" alt=""> **[GenZ Lang](https://genz-lang-web.vercel.app)**: a beginner-friendly programming language written in Gen Z slang ([source](https://github.com/Sharmil001/genzlang))
 
 ### 🧭 How I lead
