@@ -14,17 +14,18 @@ Full-stack engineer from India 🇮🇳 who takes products from an empty repo to
 
 ### 🚀 What I'm building
 
-- **Real-time collaboration**: multiplayer editing, presence, live sync
-- **AI integrations**: MCP servers, LLM tooling, agent workflows
-- **Desktop apps**: cross-platform clients, auto-updates, release channels
-- **Platform**: CI/CD, staging → prod, healthchecks, observability
+- **Multi-agent systems**: orchestrating planner and worker agents that split up a task, call tools and hand off context, shipped as product features rather than demos
+- **Agent-native products**: remote MCP servers and ChatGPT apps that let AI agents securely read and edit live user workspaces
+- **Real-time collaboration engine**: multiplayer boards and tables with live presence, per-user cursors and selections, and sync across web and desktop
+- **Desktop apps at scale**: cross-platform client with in-app patch updates and nightly → staging → stable release channels
+- **Release engineering**: release-impact checks in CI, separate staging and prod environments, health-checked deploys, so the team can ship every week without fear
 
-### 🌐 Shipped to production
+### 🧩 Products I own
 
-| | Product | What it does |
-|:-:|---|---|
-| <img src="https://godocman.com/logo192.png" width="32" alt=""> | **[Go Docman](https://godocman.com)** | All-in-one workspace for interior design & construction firms: BOQs, projects, invoices, payments, tasks, WhatsApp follow-ups |
-| <img src="https://ruppi.app/apple-touch-icon.png" width="32" alt=""> | **[Ruppi](https://ruppi.app)** | iPhone expense tracking in one tap: double-tap to log, reads bank SMS, budget cycles, works offline |
+- <img src="https://godocman.com/logo192.png" width="16" alt=""> **[Go Docman](https://godocman.com)**: operating system for interior design & construction firms
+- <img src="https://ruppi.app/apple-touch-icon.png" width="16" alt=""> **[Ruppi](https://ruppi.app)**: one-tap expense tracking for iPhone
+- <img src="https://www.kwikpic.in/logo192.jpg" width="16" alt=""> **[Kwikpic](https://www.kwikpic.in/landing/home)**: AI-powered smart photo sharing app
+- <img src="https://genz-lang-web.vercel.app/apple-touch-icon.png" width="16" alt=""> **[GenZ Lang](https://genz-lang-web.vercel.app)**: a beginner-friendly programming language written in Gen Z slang ([source](https://github.com/Sharmil001/genzlang))
 
 ### 🧭 How I lead
 
